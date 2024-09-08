@@ -12,7 +12,7 @@ const Contact = () => {
           <Link href="https://www.instagram.com/mnhtn_iie__">Instagram</Link>
         </li>
         <li className="Youtube">
-          <Link href="https://www.youtube.com/@hgtn3581">YouTube</Link>
+          <Link href="https://www.youtube.com/@minhtienn">YouTube</Link>
         </li>
         <li className="gmail">
                     Mail to:{" "}
